@@ -1,4 +1,4 @@
-Project Title TASTY KITCHENS (SWIGGY/ZOMATO CLONE)
+Project Title GNC Restaruant (SWIGGY/ZOMATO CLONE)
 
 Application URL : https://gncrestaurant.ccbp.tech/
 username: rahul ,
